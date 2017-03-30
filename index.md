@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 Hello World
-## Header 2 How are you
-### Header 3 None more to say
+How are you
+None more to say
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@ Hello World
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.youtube.com/kikumad)[/Link](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
