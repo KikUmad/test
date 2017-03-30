@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 Hello World
+Hello World
 ## Header 2 How are you
 ### Header 3 None more to say
 
